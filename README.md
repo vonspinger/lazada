@@ -12,7 +12,7 @@ This is a [Lazada Open API](https://open.lazada.com) Client for PHP.
 Execute the following command to get the package:
 
 ```
-$ composer require quynp/lazada
+$ composer require vonspinger/lazada
 ```
 
 ## Usage
